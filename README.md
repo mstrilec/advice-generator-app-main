@@ -1,3 +1,5 @@
+#To use this repository, you need to download it and open the file directly
+
 # Frontend Mentor - Advice generator app
 
 ![Design preview for the Advice generator app coding challenge](./design/desktop-preview.jpg)
