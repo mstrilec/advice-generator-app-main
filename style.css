@@ -37,6 +37,10 @@ main {
     word-spacing: 10px;
 }
 
+#text {
+    display: block;
+}
+
 .adv-text {
     margin: 20px auto 0;
     font-size: 28px;
