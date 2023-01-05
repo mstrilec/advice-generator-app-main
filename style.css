@@ -38,7 +38,7 @@ main {
 }
 
 #text {
-    display: block;
+    display: block !important;
 }
 
 .adv-text {
